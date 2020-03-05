@@ -26,7 +26,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
+## Lean Angular 9
+https://www.techiediaries.com/angular/angular-9-8-crud-example-and-tutorial/
 ## add new Project 
 Run  `ng new projectname` exp... `ng new myapp`
+## add module
+Run `ng generate module crud --routing`
+## add component
+Run `ng generate component namecomponent` 
+exp... 1. `ng generate component crud/home`
+exp... 2. `ng generate component crud/details`
+exp... 3. `ng generate component crud/create`
+exp... 4. `ng generate component crud/update`
+
 
